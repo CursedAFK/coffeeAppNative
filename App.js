@@ -65,7 +65,7 @@ const Tabs = () => (
 			tabBarShowLabel: false,
 			tabBarIcon: ({ focused, color, size }) => menuIcons(route, focused),
 			tabBarStyle: {
-				marginBottom: 20,
+				// marginBottom: 20,
 				borderRadius: 50,
 				backgroundColor: themeColors.bgLight,
 				height: 75,
